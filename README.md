@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-it's just for practicing.
+it's just for practicing!
